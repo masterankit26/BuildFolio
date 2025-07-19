@@ -46,7 +46,6 @@ const HireMe = () => {
               type="text"
               name="name"
               placeholder="Your Name"
-              required
               className="p-3 rounded-md border w-full"
             />
             <input
