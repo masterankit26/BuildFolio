@@ -40,7 +40,8 @@ const Page1 = () => {
 
   return (
     <div ref={containerRef} className='h-screen bg-red-200 p-7'>
-      <div className='relative h-full w-full shadow-xl shadow-gray-600 bg-[url(https://ibb.co/6JmLNzzn)] rounded-3xl bg-cover bg-center bg-no-repeat'>
+      <div className="relative h-full w-full shadow-xl shadow-gray-600 bg-[url('/images/p2.jpg')] rounded-3xl bg-cover bg-center bg-no-repeat">
+
 
         {/* Tilted Text */}
         <div className='absolute top-[55%] right-10 transform -translate-y-1/2 sm:right-16 md:right-24 lg:right-32'>
