@@ -42,12 +42,7 @@ const HireMe = () => {
 
         <form ref={form} onSubmit={sendEmail} className="space-y-6 text-black">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <input
-              type="text"
-              name="name"
-              placeholder="Your Name"
-              className="p-3 rounded-md border w-full"
-            />
+           
             <input
               type="email"
               name="email"
