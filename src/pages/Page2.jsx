@@ -40,7 +40,7 @@ const Page2 = () => {
       
      
       <h3 className='text-gray-500 font-serif text-base sm:text-lg md:text-xl lg:text-3xl mb-10'>
-        Kalyani Government Engineering College — Information Technology '27
+        Design it, build it, scale it -- I do it all.
       </h3>
 
       
