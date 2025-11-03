@@ -47,7 +47,7 @@ const Page3 = () => {
             <span className="font-semibold">Phone:</span> +91 9907196257
           </p>
           <p>
-            <span className="font-semibold">Email:</span> masterankit26@gmail.com
+            <span className="font-semibold">Email:</span> masterankit262003@gmail.com
           </p>
           <p>
             <span className="font-semibold">
