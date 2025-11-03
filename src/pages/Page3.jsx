@@ -34,7 +34,7 @@ const Page3 = () => {
   return (
     <div
       ref={sectionRef}
-      className="min-h-screen bg-black text-white flex items-center justify-center px-6 py-16 font-serif"
+      className="min-h-screen bg-grey text-white flex items-center justify-center px-6 py-16 font-serif"
     >
       <div
         ref={contentRef}
