@@ -101,11 +101,11 @@ const Page3 = () => {
           <h3 className="text-xl font-bold">Languages & Frameworks : </h3>
           <p>
             TECHNICAL SKILLS :
-            ● Programming - C++, Python, JavaScript, Java
-            ● Database - MySQL, MongoDB, Firebase
-            ● Frameworks/ Libraries - ReactJS, NodeJS, Flask, ExpressJS
-            ● ML Libraries - Numpy, Pandas, Matplotlib, Seaborn, Scikit Learn, Tesseract OCR, YOLOv8, OpenCV
-            ● Software - Visual Studio Code, Git & GitHub, Cursor AI
+            ● Programming - C++, Python, JavaScript, Java <br />
+            ● Database - MySQL, MongoDB, Firebase <br />
+            ● Frameworks/ Libraries - ReactJS, NodeJS, Flask, ExpressJS  <br />
+            ● ML Libraries - Numpy, Pandas, Matplotlib, Seaborn, Scikit Learn, Tesseract OCR, YOLOv8, OpenCV  <br />
+            ● Software - Visual Studio Code, Git & GitHub, Cursor AI  <br />
           </p>
         </div>
       </div>
