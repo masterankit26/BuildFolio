@@ -103,7 +103,7 @@ const Page3 = () => {
             TECHNICAL SKILLS : <br />
             <br />● Programming - C++, Python, JavaScript, Java <br />
             ● Database - MySQL, MongoDB, Firebase <br />
-            ● Frameworks/ Libraries - ReactJS, NodeJS, Flask, ExpressJS <br />
+            ● Frameworks/ Libraries - ReactJS, NodeJS, Flask, ExpressJS, FastAPI <br />
             ● ML Libraries - Numpy, Pandas, Matplotlib, Seaborn, Scikit Learn, Tesseract OCR, YOLOv8, OpenCV <br />
             ● Software - Visual Studio Code, Git & GitHub, Cursor AI <br />
           </p>
