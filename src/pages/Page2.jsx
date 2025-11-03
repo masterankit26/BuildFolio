@@ -36,7 +36,7 @@ const Page2 = () => {
   const textLines = ['Impactful', 'Code', 'is the', 'Solution', 'that', 'works!'];
 
   return (
-    <div className='bg-white text-black text-center px-4 py-20'>
+    <div className='bg-808080 text-black text-center px-4 py-20'>
       
      
       <h3 className='text-gray-500 font-serif text-base sm:text-lg md:text-xl lg:text-3xl mb-10'>
