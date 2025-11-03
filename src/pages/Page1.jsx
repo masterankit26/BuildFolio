@@ -39,7 +39,7 @@ const Page1 = () => {
   }, []);
 
   return (
-    <div ref={containerRef} className='h-screen bg-red-200 p-7'>
+    <div ref={containerRef} className='h-screen bg-808080 p-7'>
       <div className="relative h-full w-full shadow-xl shadow-gray-600 bg-[url('/images/p2.jpg')] rounded-3xl bg-cover bg-center bg-no-repeat">
 
 
