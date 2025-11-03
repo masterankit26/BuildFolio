@@ -98,10 +98,14 @@ const Page3 = () => {
         </div>
 
         <div className="space-y-2 text-lg">
-          <h3 className="text-xl font-bold">Technologies I Use:</h3>
+          <h3 className="text-xl font-bold">Languages & Frameworks : </h3>
           <p>
-            JavaScript, React.js, Node.js, Express.js, MongoDB, Tailwind CSS, GSAP,
-            HTML, CSS, Git, GitHub, Excel, PowerPoint, Word, Python, C++, MySQL, Java
+            TECHNICAL SKILLS : 
+● Programming - C++, Python, JavaScript, Java
+● Database - MySQL, MongoDB, Firebase
+● Frameworks/ Libraries - ReactJS, NodeJS, Flask, ExpressJS, 
+● ML Libraries - Numpy, Pandas, Matplotlib, Seaborn, Scikit Learn, Tesseract OCR, YOLOv8, OpenCV
+● Software - Visual Studio Code, Git & GitHub, Cursor AI
           </p>
         </div>
       </div>
