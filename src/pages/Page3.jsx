@@ -99,8 +99,7 @@ const Page3 = () => {
 
         <div className="space-y-2 text-lg">
           <h3 className="text-xl font-bold">Languages & Frameworks : <br /> </h3>
-          <p>
-            TECHNICAL SKILLS : <br />
+          <p> <br />
             <br />● Programming - C++, Python, JavaScript, Java <br />
             ● Database - MySQL, MongoDB, Firebase <br />
             ● Frameworks/ Libraries - React.js, Node.js, Flask, Express.js, FastAPI, Email.js <br />
