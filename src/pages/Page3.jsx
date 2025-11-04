@@ -143,9 +143,6 @@ const Page3 = () => {
           viewport={{ once: true }}
           className="space-y-3 text-lg"
         >
-          <h3 className="text-2xl font-bold text-indigo-300">
-            ⚙️ Technical Skills
-          </h3>
           <p className="leading-relaxed text-gray-100">
             <strong className="text-pink-300">Programming:</strong> C++, Python, JavaScript, Java <br />
             <strong className="text-pink-300">Database:</strong> MySQL, MongoDB, Firebase <br />
