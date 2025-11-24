@@ -5,7 +5,7 @@ const TiltText = forwardRef((props, ref) => {
   return (
     <div ref={ref} className='text-right text-white font-serif will-change-transform'>
       <h1 className='text-[5vw] sm:text-4xl md:text-4xl lg:text-5xl uppercase font-bold leading-tight'>
-        I'm <span className='text-black'>Full Stack</span>
+        I'm <span className='text-white'>Full Stack</span>
       </h1>
       <h1 className='text-[4vw] sm:text-2xl md:text-3xl lg:text-4xl uppercase font-semibold'>
         <span className='text-green-200 font-extrabold'>Web</span> Developer
