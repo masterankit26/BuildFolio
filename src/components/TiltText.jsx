@@ -11,7 +11,7 @@ const TiltText = forwardRef((props, ref) => {
         <span className='text-green-200 font-extrabold'>Web</span> Developer
       </h1>
       <h1 className='text-[3.5vw] sm:text-xl md:text-2xl lg:text-3xl uppercase font-medium'>
-        with <span className='text-black font-extrabold'>AI/ML</span>
+        with <span className='text-green-200 font-extrabold'>AI/ML</span>
       </h1>
     </div>
   );
