@@ -8,12 +8,11 @@ import Page1 from './pages/Page1';
 import Page2 from './pages/Page2';
 import Page3 from './pages/Page3';
 import HireMe from './pages/HireMe';
-import Header from './components/Header';
 
 function App() {
   return (
     <BrowserRouter>
-      <Header />
+      
       <Routes>
         
 
