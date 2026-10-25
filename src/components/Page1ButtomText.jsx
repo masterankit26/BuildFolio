@@ -1,15 +1,22 @@
 
-import React from 'react';
+import React from "react";
 
 const Page1ButtomText = () => {
   return (
-    <div className='absolute bottom-2 left-6 sm:left-10 px-4 py-2 rounded-md shadow-md'>
-      <div className='text-white text-sm sm:text-base leading-relaxed font-semibold text-left'>
-        <h2 className='text-3xl font-serif text-white'><span className='text-green-200'>|Ankit Shaw — Python & </span>Data Analytics Enthusiast. </h2>
-        
-      </div>
+    <div className="max-w-xl">
+      <p className="text-xs uppercase tracking-[0.22em] text-white/45">
+        A little about me
+      </p>
+
+      <h2 className="mt-2 text-lg font-semibold leading-relaxed text-white sm:text-xl">
+        Ankit Shaw
+        <span className="mx-2 text-emerald-200">/</span>
+        <span className="font-normal text-white/65">
+          Python & Data Analytics Enthusiast
+        </span>
+      </h2>
     </div>
   );
 };
 
-export default Page1ButtomText; 
+export default Page1ButtomText;
