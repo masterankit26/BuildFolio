@@ -96,17 +96,6 @@ const Page3 = () => {
             Batch: 2023 - 2027
           </p>
         </div>
-
-        <div className="space-y-2 text-lg">
-          <h3 className="text-xl font-bold">Languages & Frameworks : <br /> </h3>
-          <p>
-            ● Programming - C++, Python, JavaScript, Java <br />
-            ● Database - MySQL, MongoDB, Firebase <br />
-            ● Frameworks/ Libraries - React.js, Node.js, Flask, Express.js, FastAPI, Email.js <br />
-            ● ML Libraries - Numpy, Pandas, Matplotlib, Seaborn, Scikit Learn, Tesseract OCR, YOLOv8, OpenCV <br />
-            ● Software - Visual Studio Code, Git & GitHub, Cursor AI <br />
-          </p>
-        </div>
       </div>
     </div>
   );
